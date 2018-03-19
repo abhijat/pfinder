@@ -1,0 +1,12 @@
+[package]
+name = "pfind"
+version = "0.1.0"
+authors = ["Abhijat Malviya <malviya.abhijat@gmail.com>"]
+
+[dependencies]
+rand = "0.4"
+users = "0.6"
+clap = "2.31"
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
